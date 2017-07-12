@@ -1,0 +1,416 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=0">
+<link rel="stylesheet" type="text/css" href="css/normalize.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/skeleton.css">
+<link rel="stylesheet" type="text/css" href="css/fonts.css">
+<link rel="stylesheet" type="text/css" href="css/media-queries.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.sidr.light.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/ie.css">
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css"  href="css/font-awesome-ie7.css">
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2417512-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<title>PropertyGuru News and Views</title>
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc. All rights reserved. -->
+<!-- Copyright 2000, 2001, 2002, 2003 Macromedia, Inc. All rights reserved. -->
+</head>
+	<body>
+		<div class="header">
+			<div class="container">
+
+			<div class="main-sidr-box">
+				<a class="side-menu-icon" id="simple-menu" href="#sidr"><i class="fa fa-bars"></i></a>
+				<div id="sidr">
+
+				<div class="top-m-box">
+				</div>
+						<ul class="s-case-menu">
+							<li><a href="#about"><i class="fa fa-home"></i> ABOUT</a></li>
+							<li><a href="#content"><i class="fa fa-user-secret"></i> CONTENT</a></li>
+							<li><a href="#subscribe"> <i class="fa fa-building"></i> SUBSCRIBE</a></li>
+						</ul>
+
+				</div><!--sidr-->
+			</div><!--main-sidr-box-->
+			
+				<div class="image-logo"> <a href="http://www.propertyguru.com.sg/" target="_blank"><img style="max-width:100%;height:auto;" src="images/dummy-logo.png" alt="PropertyGuru"></a>
+				</div><!--image-logo-->
+
+			<!--case-menu-->
+			</div><!--container-->
+		</div><!--header-->
+
+		<div class="menu-strip">
+			<div class="container">
+				<div class="menu-box">
+					<ul class="lower-menu">
+						<li><a href="#about">ABOUT</a></li>
+						<li><a href="#content">CONTENT</a></li>
+						<li><a href="#subscribe">SUBSCRIBE</a></li>
+					</ul>
+				</div><!--menu-box-->
+			</div><!--container-->
+		</div><!--menu-strip-->
+
+		<div class="wrapper">
+			<div class="slider-form">
+			<div class="container">
+				<div class="intro-box clearfix"><p align="center"></p>
+					<p align="center" class="header_small height592"><a href="#subscribe"><img style="max-width:100%;height:auto;" src="images/subscription-button_03.png" alt="" class=""></a></p>
+
+				</div><!--intro-box-->
+			</div>
+			</div><!--slider-form-->
+			
+		<div class="wrapper">
+			<div class="slider-form2">
+			<div class="container">
+				<div class="intro-box clearfix"><p align="center"></p>
+					<p align="center" class="header_small height592"><a href="#subscribe"><img style="max-width:100%;height:auto;" src="images/subscription-button_03.png" alt="" class=""></a></p>
+
+				</div><!--intro-box-->
+			</div>
+			</div><!--slider-form2-->
+			
+			<div class="container">
+            <div class="col span12 lower-text" style="padding-top:30px;">
+					<br /><h1 id="about" class="font30">All access subscription (Print + Digital)</h1>
+                 
+					<div class="col span12 feat-box pricing_small image-align-c"> <a href="#subscribe"><img class="hide" src="images/c4.png" alt=""></a>
+              </div>
+			  </div>
+              
+            <div class="col span12 lower-text">
+					<br /><h1 id="about" class="font30">About</h1>
+					<p>Powered by Asia’s leading online property group, we bring to property seekers, investors and property enthusiasts alike, <br />
+					  the Guru View on the property market in Singapore, the region and beyond.<br /><br />
+
+The insightful articles, in-depth analyses and intriguing commentaries from industry gurus will be delivered across multiple platforms including online, mobile and print, to help them stay abreast of the market and make better property decisions today.</p>
+			  </div>
+<div class="defaultbox clearfix">
+					
+<div class="col span5 feat-box">
+							<table data-table-list class="table-striped table-bordered" style="font-size:18px;" width="100%" height="100%">
+    <thead>
+        <tr>
+            <th colspan="2" align=scope="col" style="background-color:#32bb8f;"><strong>
+VIDEO OF OUR EVOLUTION</strong></th>
+            </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td colspan="2" style="font-size:20px;" scope="row" bgcolor="000000"><div class="video-container col span12"><iframe width="560" height="25" src="https://www.youtube.com/embed/4cBYiw7WsF0" frameborder="0" allowfullscreen></iframe></div></td>
+        </tr>
+        </tbody>
+</table>
+							<br />
+                       
+	  </div>							
+
+						  <div class="col span5 feat-box">
+		<table data-table-list class="table-striped table-bordered col span12" style="font-size:18px;">
+    <thead>
+        <tr>
+            <th colspan="2" align=scope="col" style="background-color:#32bb8f;"><strong>FAST FACTS</strong></th>
+            </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Established</strong></td>
+            <td>Year 2009</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Language</strong></td>
+            <td>English</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Articles &amp; stories published to date</strong></td>
+            <td>Over 5000</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Frequency of publication (Print)</strong></td>
+            <td>Monthly (fourth Friday of the month)</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Print Circulation </strong></td>
+            <td>35,000/issue every month</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Issues Printed to date</strong></td>
+            <td>Over 100</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Frequency of publication (Digital)</strong></td>
+            <td>Daily</td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Website</strong></td>
+            <td><a href="http://Propertyguru.com.sg/market-news">Propertyguru.com.sg/market-news</a></td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:14px;"><strong>Mobile</strong></td>
+            <td><a href="http://www.propertyguru.com.sg/mobile" target="_blank">PropertyGuru Mobile App</a></td>
+        </tr>
+    </tbody>
+</table>
+	  </div>
+
+
+							
+			  </div>
+<hr />
+			  <div class="col span12 lower-text">
+					<h1 class="font30">Available in Platforms for Every Reading Habit</h1>
+				</div>
+                
+					<div class="default-box clearfix">
+					  <div class="col span4 feat-box">
+						<img class="image-align-c" src="images/c1.png" alt="">
+
+						<p><strong>Rather have your property knowledge in the grasp of your hands?</strong><br />
+						  <br />
+					    Pick up a print copy at one of our many <strong><a href="http://comms.propertyguru.com.sg/pgnv_pickuppoints" target="_blank" style="text-decoration:none; color:#32bb8f;">pick-up points</a></strong> or <strong><a href="http://comms.propertyguru.com.sg/pgnv_pickuppoints" target="_blank" style="text-decoration:none; color:#32bb8f;">subscribe</a></strong> to our monthly home delivery service.<br />
+					    <br /></p>
+					  </div>
+						
+
+					  <div class="col span4 feat-box">
+						<img class="image-align-c" src="images/c2.png" alt="">
+						<p><strong>Do you love scouring the net for property news and stories?</strong><br />
+						  <br />
+<strong><a href="#subscribe" target="_blank" style="text-decoration:none; color:#32bb8f;">Register</a> </strong>online to <a href="http://www.propertyguru.com.sg/property-management-news/tag/news-and-views-pdfs" target="_blank" style="text-decoration:none; color:#32bb8f;"><strong>download PDF versions</strong></a> of the full print issues or <strong><a href="#subscribe"style="text-decoration:none; color:#32bb8f;">subscribe</a></strong> to our free monthly newsletter.						</p>
+						</div>
+
+
+					  <div class="col span4 feat-box">
+						<img class="image-align-c" src="images/c3.png" alt="">
+						<p><strong>Are you always on the go or on your mobile device?</strong><br />
+						  <br />
+					    Access and consume our news and stories via the  PropertyGuru <strong><a href="http://www.propertyguru.com.sg/mobile" style="text-decoration:none; color:#32bb8f;">mobile app</a>&rsquo;s <em>Property News</em> section</strong><br /><br /></p>
+						</div>
+
+					</div>
+			  <div class="defaultbox clearfix"></div>
+              <hr />
+<div class="col span12 lower-text">
+					<h1 id="content" class="font30">Comprehensive Collection of Premium Content and Property News & Articles</h1><br />
+                    <img class="image-align-c" src="images/premium_title.png" alt="" style="float:left;"><br /><br />
+				</div>
+<div class="default-box clearfix">
+						<div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p1.png" alt=""><p></p>
+
+	  </div>
+						
+
+	  <div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p2.png" alt="">
+						<p></p>
+						</div>
+
+
+	  <div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p5.png" alt="">
+						<p></p>
+</div><div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p3.png" alt="">
+
+						<p></p>
+</div>
+
+			  </div>
+              
+              
+<div class="default-box clearfix">
+
+						<div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p6.png" alt="">
+
+						<p></p>
+</div>
+						
+
+	  <div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p7.png" alt="">
+						<p></p>
+      </div>
+
+
+	  <div class="col span3 feat-boxb">
+						<img class="image-align-c" src="images/p4.png" alt=""><br />
+					<br />
+</div>
+
+
+	  <div class="col span3 feat-boxb">
+		<img class="image-align-c" src="images/spacer.png" alt="">
+</div>
+			  </div>
+					<div class="defaultbox clearfix">
+						<img class="image-align-c" src="images/newsviews_title.png" alt="" style="float:left;"><br /><br />
+
+						<div class="company-b clearfix">
+							<div class="col span3 feat-boxb">
+							<img class="image-align-c" src="images/f1.png" alt="" >
+							<br />
+							</div>
+
+						  <div class="col span3 feat-boxb">
+							<img class="image-align-c" src="images/f3.png" alt="" >
+							<br />
+							</div>
+
+
+						  <div class="col span3 feat-boxb">
+							<img class="image-align-c" src="images/f4.png" alt="" >
+							<br />
+							</div>
+                            <div class="col span3 feat-boxb">
+							<img class="image-align-c" src="images/f5.png" alt="" >
+							<br />
+						  </div>
+					  </div>
+
+						
+<hr />
+<div class="col span12 lower-text">
+					<h1 id="subscribe"class="font30">Subscribe now for premium or all access</h1>
+				</div>
+<div class="defaultbox clearfix">
+					
+							<div class="col span5 feat-box" align="center">
+							<table scope="col" class="table-striped table-bordered width320" width="550" style="font-size:18px;" data-table-list>
+					<thead>
+        <tr>
+            <th colspan="2" style="background-color:#333333;" class="font14"><strong>PREMIUM CONTENT (DIGITAL ACCESS)</strong><br />
+              <span style="font-weight:normal;">ONLY AVAILABLE TO PROPERTYGURU MEMBERS</span></th>
+            </tr>
+    </thead>
+							<tbody>
+        <tr>
+            <td width="50" align="right" style="font-size:20px;" scope="row"><strong> &nbsp;&nbsp;&nbsp;✔</strong></td>
+            <td><strong> 
+Access to all Premium Content digitally via website or mobile app<br></strong></td>
+        </tr>
+        <tr>
+          <td style="font-size:20px;" scope="row"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+          <td><strong>Monthly newsletter with newly released articles sent to your email address</strong></td>
+        </tr>
+        <tr>
+          <td scope="row" style="font-size:20px;"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+          <td><strong>Option to receive daily or weekly alerts sent to your email address</strong></td>
+        </tr>
+        <tr>
+           <td height="10" style="font-size:20px; color:#fff; border:none;" scope="row"></td>
+          <td style="border:none;"></td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center" style="font-size:14px; border-top:none;" scope="row"><a href="http://www.propertyguru.com.sg/register" target="_blank"><img class="image-align-c" src="images/digaccess-button.png" alt="" style="float:center;" /></a>
+            <p align="center">
+              Already a member? 
+Go to your <a href="http://www.propertyguru.com.sg/user-profile" target="_blank" style="text-decoration:none; color:#32bb8f;"><strong>profile page</strong></a> and check the <strong>‘Subscribe to receive property news’ box</strong> to receive your daily or weekly news alert. Want to get a print version? <strong><a href="http://comms.propertyguru.com.sg/pgnv_pickuppoints" target="_blank" style="text-decoration:none; color:#32bb8f;">Find out where you can grab a copy &gt;&gt;</a></strong><br /><br />
+</p></td>
+        </tr>
+        </tbody>
+</table></div><div class="col span5 feat-box" align="center">
+							<table data-table-list class="table-striped table-bordered width320" width="550" style="font-size:18px;">
+    <thead>
+        <tr>
+            <th colspan="2" scope="col" style="background-color:#32bb8f;"><strong>
+				<span style="font-weight:heavy;color:#333333;">ALL ACCESS</span><br />
+<span style="font-weight:normal;color:#333333;"><span style="font-size:18px;">$39.90 / YEAR</span></span></strong></th>
+            </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row" style="font-size:20px;"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+            <td><strong> 
+Have 12 issues of the print copy delivered to your doorstep monthly.
+</strong></td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:20px;"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+            <td><strong>Access to all Premium Content digitally via website or mobile app</strong></td>
+        </tr>
+        <tr>
+            <td scope="row" style="font-size:20px;"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+            <td><strong>Monthly newsletter with newly released articles sent to your email address</strong></td>
+        </tr>
+        <tr>
+          <td scope="row" style="font-size:20px;"><strong>&nbsp;&nbsp;&nbsp;✔</strong></td>
+          <td><strong>Option to receive daily or weekly alerts sent to your email address</strong></td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center" style="font-size:12px;" scope="row"><p align="center"><a href="https://billing.propertyguru.com.sg/buy/5301/5301?redirect_url=http://news-and-views.propertyguru.com.sg" target="_blank"><img class="image-align-c" src="images/allaccess-button_03_03.png" alt="" style="float:center;"></a>
+          </p>
+            <p align="center" style="color:#FFFFFF;" class="hide">Print copies are available for pick-up island wide at over 1,000 locations fortnightly. <strong>Find out where you can grab a copy >></strong><br /><br />
+</p></td>
+        </tr>
+        </tbody>
+</table>
+							<p></p><br />
+							</div>
+	
+						</div>
+ <!--yeah-->   
+		  
+		</div>
+ 
+                                                
+					</div> 
+                                       <!--yeah-->         
+					</div><!--default-box-->
+					<!--social-media-b-->				
+
+
+		<div class="footer-box">
+				<div class="container">
+				<div class="footer-menu-box move-right">
+					<ul class="footer-links">
+						
+						<li>Terms</li>
+					</ul>
+				
+				  </div>
+			</div>
+
+			<div class="footer clearfix">
+			  <div class="container">
+			    <div class="container">
+			      <div class="col span6"></div>
+			      <div class="col span6">
+			        <div class="copyright">
+			          
+			            <p>Copyright © 2016 PropertyGuru Pte Ltd. All rights reserved.</p>
+		            
+		            </div>
+		          </div>
+		        </div>
+			  </div>
+			</div><!--footer-->
+		</div><script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+	
+		
+		 <script type="text/javascript" src="js/jquery.sidr.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
